@@ -1,3 +1,3 @@
 def display_rainbow (colors)
-  puts letters "#{letters[0]}, #{letters[1]}, #{letters[2]}, #{letters[3]}, #{letters[4]}, #{letters[5]}, #{letters[6]}"
+  puts colors "#{colors[0]}, #{colors[1]}, #{colors[2]}, #{colors[3]}, #{colors[4]}, #{colors[5]}, #{colors[6]}"
 end
