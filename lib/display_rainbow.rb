@@ -1,8 +1,3 @@
-R = [red]
-O = [orange]
-G = [green]
-B = [blue]
-I = [indigo]
-V = [violet]
-def display_rainbow(['R', 'O', 'Y', 'G', 'B', 'I', 'V'])
+letters = ["R","O", "Y", "G", "B", "I", "V"]
+def display_rainbow #{letters[1]}
 end
