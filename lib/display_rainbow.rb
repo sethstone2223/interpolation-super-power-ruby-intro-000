@@ -1,6 +1,6 @@
 R = [red]
 O = [orange]
-G [green]
+G = [green]
 B = [blue]
 I = [indigo]
 V = [violet]
